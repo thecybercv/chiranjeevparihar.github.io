@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Portfolio Website",
+    "description": "A modern, responsive personal portfolio built with React and Tailwind CSS.",
+    "image": "/assets/portfolio.png",
+    "tech": ["React", "Tailwind CSS", "Vite"],
+    "github": "https://github.com/yourusername/portfolio",
+    "live": "https://yourusername.github.io/portfolio/"
+  },
+  {
+    "id": "2",
+    "title": "CyberSec Blog",
+    "description": "A markdown-powered blog for cybersecurity articles.",
+    "image": "/assets/blog.png",
+    "tech": ["React", "Markdown", "Framer Motion"],
+    "github": "https://github.com/yourusername/cybersec-blog",
+    "live": "https://yourusername.github.io/cybersec-blog/"
+  }
+]
+
+

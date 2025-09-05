@@ -1,0 +1,18 @@
+[
+  {
+    "id": "hello-world",
+    "title": "Hello World: My First Blog Post",
+    "summary": "An introduction to my blog and what to expect.",
+    "date": "2024-06-01",
+    "cover": "/assets/blog1.png"
+  },
+  {
+    "id": "cybersecurity-tips",
+    "title": "Top 10 Cybersecurity Tips",
+    "summary": "Essential tips to stay safe online.",
+    "date": "2024-06-02",
+    "cover": "/assets/blog2.png"
+  }
+]
+
+
